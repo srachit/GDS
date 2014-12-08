@@ -1,2 +1,4 @@
-Game Development Club Website
-Technologies used: HTML, CSS, Bootstrap, JQuery
+```html
+		<h1>Game Development Club Website</h1>
+		<p>Technologies used: HTML, CSS, Bootstrap, JQuery </p>
+```
